@@ -13,5 +13,16 @@ means files has has been created but not yet committed
 Here is the file i want you to watch
 - git add index.html
 
-# please commit this file and here is the message
+Please commit this file and here is the message
 - git commint -m
+
+Check the differences
+- git diff
+
+Show commit history with
+- git log // more complicated
+- git lg  //easier to read
+// will also show the network of branch
+
+Yellow X shows file that hasn't been tracked
+
