@@ -1,0 +1,17 @@
+to get into git
+ - git innit
+
+to see hidden files in git
+- ls -a
+
+To see if something has been changed
+- git status
+
+means files has has been created but not yet committed
+- Untracked files:
+
+Here is the file i want you to watch
+- git add index.html
+
+# please commit this file and here is the message
+- git commint -m
